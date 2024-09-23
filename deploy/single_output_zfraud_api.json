@@ -1,0 +1,21 @@
+{
+"predictions": [
+  {
+    "class_probs": [
+      0.999999945025918,
+      5.497408195331843e-8
+    ],
+    "class_values": [
+      "1",
+      "0"
+    ],
+    "predicted_class": [
+      "1"
+    ]
+  }
+],
+"deployedModelId": "5838750890630053888",
+"model": "projects/618200929325/locations/us-central1/models/2426728815129526272",
+"modelDisplayName": "zen_fraud_detection_api",
+"modelVersionId": "1"
+}

@@ -1,0 +1,8 @@
+curl -X POST http://127.0.0.1:5000/predict \
+-H "Content-Type: application/json" \
+-d '{
+    "project": "618200929325",
+    "endpoint_id": "6811167770328170496",
+    "location": "us-central1",
+    "instances": { "V1": 4.3, "V2": 3, "V3": 1.1, "V4": 0.1 }
+}'
